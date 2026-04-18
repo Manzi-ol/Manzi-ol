@@ -86,11 +86,11 @@ _Tools & Platforms_
 
 [![Calculator App](https://github-readme-stats.vercel.app/api/pin/?username=Manzi-ol&repo=calculator-app&theme=dark&bg_color=0d1117&title_color=c9973a&icon_color=6ee7a0&text_color=f5f0e8&border_color=c9973a)](https://github.com/Manzi-ol/calculator-app)
 &nbsp;
-[![Pomodoro Timer](https://github-readme-stats.vercel.app/api/pin/?username=Manzi-ol&repo=pomodoro-timer&theme=dark&bg_color=0d1117&title_color=c9973a&icon_color=6ee7a0&text_color=f5f0e8&border_color=c9973a)](https://github.com/Manzi-ol/pomodoro-timer)
+[![Expense Tracker](https://github-readme-stats.vercel.app/api/pin/?username=Manzi-ol&repo=expense-tracker&theme=dark&bg_color=0d1117&title_color=c9973a&icon_color=6ee7a0&text_color=f5f0e8&border_color=c9973a)](https://github.com/Manzi-ol/expense-tracker)
 
-[![Password Generator](https://github-readme-stats.vercel.app/api/pin/?username=Manzi-ol&repo=password-generator&theme=dark&bg_color=0d1117&title_color=c9973a&icon_color=6ee7a0&text_color=f5f0e8&border_color=c9973a)](https://github.com/Manzi-ol/password-generator)
+[![Flashcard App](https://github-readme-stats.vercel.app/api/pin/?username=Manzi-ol&repo=flashcard-app&theme=dark&bg_color=0d1117&title_color=c9973a&icon_color=6ee7a0&text_color=f5f0e8&border_color=c9973a)](https://github.com/Manzi-ol/flashcard-app)
 &nbsp;
-[![Umudugudu Manager](https://github-readme-stats.vercel.app/api/pin/?username=Manzi-ol&repo=umudugudu-manager&theme=dark&bg_color=0d1117&title_color=c9973a&icon_color=6ee7a0&text_color=f5f0e8&border_color=c9973a)](https://github.com/Manzi-ol/umudugudu-manager)
+[![Pomodoro Timer](https://github-readme-stats.vercel.app/api/pin/?username=Manzi-ol&repo=pomodoro-timer&theme=dark&bg_color=0d1117&title_color=c9973a&icon_color=6ee7a0&text_color=f5f0e8&border_color=c9973a)](https://github.com/Manzi-ol/pomodoro-timer)
 
 </div>
 
@@ -108,7 +108,7 @@ _Tools & Platforms_
 | ⬜ **Phase 4** | Full Stack & Impact | #61 – #80 | `Upcoming` |
 | ⬜ **Phase 5** | Flagship & Portfolio-Level | #81 – #100 | `Upcoming` |
 
-`▓▓░░░░░░░░░░░░░░░░░░` &nbsp; **3 / 100 shipped**
+`▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░` &nbsp; **13 / 100 shipped**
 
 ---
 
