@@ -35,6 +35,7 @@ _Frameworks & Libraries_
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![DRF](https://img.shields.io/badge/Django_REST-ff1709?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 <br/>
@@ -84,13 +85,21 @@ _Tools & Platforms_
 
 <div align="center">
 
-[![Calculator App](https://github-readme-stats.vercel.app/api/pin/?username=Manzi-ol&repo=calculator-app&theme=dark&bg_color=0d1117&title_color=c9973a&icon_color=6ee7a0&text_color=f5f0e8&border_color=c9973a)](https://github.com/Manzi-ol/calculator-app)
+[![social-media-bot](https://github-readme-stats.vercel.app/api/pin/?username=Manzi-ol&repo=social-media-bot&theme=dark&bg_color=0d1117&title_color=c9973a&icon_color=6ee7a0&text_color=f5f0e8&border_color=c9973a)](https://github.com/Manzi-ol/social-media-bot)
 &nbsp;
-[![Expense Tracker](https://github-readme-stats.vercel.app/api/pin/?username=Manzi-ol&repo=expense-tracker&theme=dark&bg_color=0d1117&title_color=c9973a&icon_color=6ee7a0&text_color=f5f0e8&border_color=c9973a)](https://github.com/Manzi-ol/expense-tracker)
+[![crypto-tracker](https://github-readme-stats.vercel.app/api/pin/?username=Manzi-ol&repo=crypto-tracker&theme=dark&bg_color=0d1117&title_color=c9973a&icon_color=6ee7a0&text_color=f5f0e8&border_color=c9973a)](https://github.com/Manzi-ol/crypto-tracker)
 
-[![Flashcard App](https://github-readme-stats.vercel.app/api/pin/?username=Manzi-ol&repo=flashcard-app&theme=dark&bg_color=0d1117&title_color=c9973a&icon_color=6ee7a0&text_color=f5f0e8&border_color=c9973a)](https://github.com/Manzi-ol/flashcard-app)
+[![todo-rest-api](https://github-readme-stats.vercel.app/api/pin/?username=Manzi-ol&repo=todo-rest-api&theme=dark&bg_color=0d1117&title_color=c9973a&icon_color=6ee7a0&text_color=f5f0e8&border_color=c9973a)](https://github.com/Manzi-ol/todo-rest-api)
 &nbsp;
-[![Pomodoro Timer](https://github-readme-stats.vercel.app/api/pin/?username=Manzi-ol&repo=pomodoro-timer&theme=dark&bg_color=0d1117&title_color=c9973a&icon_color=6ee7a0&text_color=f5f0e8&border_color=c9973a)](https://github.com/Manzi-ol/pomodoro-timer)
+[![url-shortener](https://github-readme-stats.vercel.app/api/pin/?username=Manzi-ol&repo=url-shortener&theme=dark&bg_color=0d1117&title_color=c9973a&icon_color=6ee7a0&text_color=f5f0e8&border_color=c9973a)](https://github.com/Manzi-ol/url-shortener)
+
+[![weather-dashboard](https://github-readme-stats.vercel.app/api/pin/?username=Manzi-ol&repo=weather-dashboard&theme=dark&bg_color=0d1117&title_color=c9973a&icon_color=6ee7a0&text_color=f5f0e8&border_color=c9973a)](https://github.com/Manzi-ol/weather-dashboard)
+&nbsp;
+[![image-watermarker](https://github-readme-stats.vercel.app/api/pin/?username=Manzi-ol&repo=image-watermarker&theme=dark&bg_color=0d1117&title_color=c9973a&icon_color=6ee7a0&text_color=f5f0e8&border_color=c9973a)](https://github.com/Manzi-ol/image-watermarker)
+
+[![expense-tracker](https://github-readme-stats.vercel.app/api/pin/?username=Manzi-ol&repo=expense-tracker&theme=dark&bg_color=0d1117&title_color=c9973a&icon_color=6ee7a0&text_color=f5f0e8&border_color=c9973a)](https://github.com/Manzi-ol/expense-tracker)
+&nbsp;
+[![news-aggregator](https://github-readme-stats.vercel.app/api/pin/?username=Manzi-ol&repo=news-aggregator&theme=dark&bg_color=0d1117&title_color=c9973a&icon_color=6ee7a0&text_color=f5f0e8&border_color=c9973a)](https://github.com/Manzi-ol/news-aggregator)
 
 </div>
 
@@ -102,13 +111,27 @@ _Tools & Platforms_
 
 | Phase | Focus | Range | Status |
 |-------|-------|-------|--------|
-| 🟡 **Phase 1** | Foundations — Warm Up | #01 – #20 | `In Progress` |
-| ⬜ **Phase 2** | Building Up — Real Projects | #21 – #40 | `Upcoming` |
+| 🟢 **Phase 1** | Foundations — Warm Up | #01 – #20 | `In Progress` |
+| 🟡 **Phase 2** | Building Up — Real Projects | #21 – #40 | `In Progress` |
 | ⬜ **Phase 3** | AI-Powered Projects | #41 – #60 | `Upcoming` |
 | ⬜ **Phase 4** | Full Stack & Impact | #61 – #80 | `Upcoming` |
 | ⬜ **Phase 5** | Flagship & Portfolio-Level | #81 – #100 | `Upcoming` |
 
-`▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░` &nbsp; **13 / 100 shipped**
+`▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░░░░░░░░░` &nbsp; **23 / 100 shipped**
+
+### Recent Builds
+| # | Project | Stack | What it does |
+|---|---------|-------|-------------|
+| 23 | [social-media-bot](https://github.com/Manzi-ol/social-media-bot) | Python · Flask | Instagram & TikTok automation via official APIs |
+| 22 | [image-watermarker](https://github.com/Manzi-ol/image-watermarker) | Python · Pillow | Batch watermark photos with text or logo |
+| 21 | [news-aggregator](https://github.com/Manzi-ol/news-aggregator) | Python | RSS headlines from multiple sources |
+| 20 | [todo-rest-api](https://github.com/Manzi-ol/todo-rest-api) | Python · Flask · SQLite | Full CRUD REST API |
+| 19 | [crypto-tracker](https://github.com/Manzi-ol/crypto-tracker) | Python | Live prices via CoinGecko, CSV export |
+| 18 | [url-shortener](https://github.com/Manzi-ol/url-shortener) | Python · Flask | Short links with click analytics |
+| 17 | [weather-dashboard](https://github.com/Manzi-ol/weather-dashboard) | Python | Current weather + 5-step forecast |
+| 16 | [file-organizer](https://github.com/Manzi-ol/file-organizer) | Python | Auto-sort downloads by file type |
+| 15 | [pomodoro-timer](https://github.com/Manzi-ol/pomodoro-timer) | Python | Focus timer with live progress bar |
+| 14 | [password-generator](https://github.com/Manzi-ol/password-generator) | Python | Cryptographic passwords + strength check |
 
 ---
 
